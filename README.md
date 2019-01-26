@@ -10,7 +10,7 @@ Use a custom stylesheet extension. Many are available for each browser.
 
 # Desktop Client
 
-Place userstyle.css in the follow directories for client to find them. [[src]](https://flowdock.uservoice.com/forums/36827-general/suggestions/5407290-allow-for-custom-css)
+Place userstyle.css in the following directories for the client to find them. [[src]](https://flowdock.uservoice.com/forums/36827-general/suggestions/5407290-allow-for-custom-css)
 
 ### Windows
 ```
