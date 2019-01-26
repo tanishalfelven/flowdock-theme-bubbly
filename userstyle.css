@@ -1,0 +1,50 @@
+#tab-bar, .nav-footer {
+    width: 20rem;
+  }
+  .tab-avatar {
+    width : 2rem;
+    border-radius : 5px;
+  }
+  .tab-menu-link {
+    margin-top: 0.3em;
+  }
+  .tab-link {
+    padding-top : 0.3em;
+    padding-bottom : 0.3em;
+  }
+  .close-tab {
+    margin-top: 0.67em;
+  }
+  .tab-avatar, .tab-avater::after, .user-avatar-image, .user-avatar, .user-avatar::after, .rounded-avatar .user-menu-avatar, .thread-avatar, .thread-comment-avatar {
+    border-radius : 5px !important;
+  }
+  .tab-link, .tab-name {
+    transition: color 0.08s, background-color 0.4s, background 0.4s;
+  }
+  .tab-link {
+    border-radius : 15px;
+    margin: 2px 6px;
+  }
+  .toolbar-toggle {
+    border-radius: 8px;
+  }
+  .primary-button {
+    border-radius: 20px;
+  }
+  .minimized .notification-container {
+    border-radius: 5px;
+  }
+  .minimized .tab-avatar {
+    margin: 4px 11px;
+  }
+  .minimized .activity-indicator.activity-indicator-chat {
+    margin-left: 3px;
+    margin-top: 10px;
+  }
+  .activity-indicator.activity-indicator-chat {
+    background-color: #bcc6c7 !important;
+  }
+  .right-panel.single-panel, form.message-form, .windows ::-webkit-scrollbar-track, header.floating-header, fieldset {
+    border-color: rgb(0, 0, 0, 0) !important;
+    box-shadow: initial !important;
+  }
